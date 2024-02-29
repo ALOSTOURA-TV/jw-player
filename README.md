@@ -1,1 +1,1 @@
-<img src="https://jwplayer.com/wp-content/uploads/2022/11/JWP-logo-w.svg" style="width: 200px; ">
+<img src="https://i.imgur.com/Ag4puok.png" style="width: 300px;height: 80px; ">
